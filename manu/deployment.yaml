@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: my-container
-          image: public.ecr.aws/d8r5o7m8/devsecops-repo:latest
+          image: 
           ports:
             - containerPort: 3000
